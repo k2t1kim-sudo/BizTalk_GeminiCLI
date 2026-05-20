@@ -22,10 +22,10 @@
 
 | 영역 | 기술 |
 | :--- | :--- |
-| **Backend** | Python 3.11+, FastAPI, Uvicorn |
-| **AI Library** | LangChain, `langchain-upstage` |
+| **Backend** | Python 3.11+, FastAPI (0.136.1), Uvicorn (0.47.0), Pydantic (2.13.4) |
+| **AI Library** | LangChain (1.3.1), `langchain-upstage` (0.7.7) |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
-| **Environment** | `python-dotenv` |
+| **Environment** | `python-dotenv` (1.2.2) |
 | **Deployment** | Vercel (Frontend & Backend 연동) |
 
 ---
